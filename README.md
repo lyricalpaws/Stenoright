@@ -1,8 +1,8 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
 
-![](https://img.shields.io/github/license/lyricalpaws/Stenoright.svg?style=flat-square)
-![](https://img.shields.io/github/issues/lyricalpaws/Stenoright.svg?style=flat-square)
+[![](https://img.shields.io/github/license/lyricalpaws/Stenoright.svg?style=flat-square)](https://github.com/lyricalpaws/Stenoright/blob/master/LICENSE)
+[![](https://img.shields.io/github/issues/lyricalpaws/Stenoright.svg?style=flat-square)](https://github.com/lyricalpaws/Stenoright/issues)
 [![](https://img.shields.io/github/repo-size/badges/shields.svg?style=flat-square)](https://github.com/lyricalpaws/Stenoright)
 
 # Stenoright
